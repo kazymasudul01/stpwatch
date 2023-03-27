@@ -1,0 +1,31 @@
+body{
+    
+    background-color: #4E6E81;
+}
+.stopwatch{
+    padding-top: 130px;
+}
+.stopwatch h1, h6{
+    color: white;
+}
+
+.stopwatch-info p{
+    margin-top: 38px;
+}
+.stopwatch-info span{
+    font-size: 20px;
+    font-weight: 500;
+    padding: 30px;
+    
+}
+.stopwatch-btn{
+    background-color: red;
+    color: white;
+    padding: 9px 15px;
+    font-size: 18px;
+    font-weight: 600;
+    transition: .3s;
+}
+.stopwatch-btn:hover{
+    background-color: rgb(224, 10, 10) !important;
+}
